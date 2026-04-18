@@ -84,7 +84,7 @@ export default function Hero() {
               <motion.div animate={{ y: [0, -8, 0] }} transition={{ repeat: Infinity, duration: 3, ease: "easeInOut" }}
                 className="absolute -bottom-3 -right-3 glass px-3 py-2 rounded-xl"
                 style={{ border: "1px solid rgba(0,212,255,0.3)" }}>
-                <p className="font-mono text-xs text-[#00d4ff]">Data Science</p>
+                <p className="font-mono text-xs text-[#00d4ff]">Thriving</p>
               </motion.div>
             </div>
 
